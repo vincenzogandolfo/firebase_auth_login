@@ -1,6 +1,6 @@
 import 'package:firebase_auth_login/auth.dart';
 import 'package:firebase_auth_login/pages/home_page.dart';
-import 'package:firebase_auth_login/pages/login_register_page.dart';
+import 'package:firebase_auth_login/pages/login_page.dart';
 import 'package:flutter/material.dart';
 
 class WidgetTree extends StatefulWidget {
